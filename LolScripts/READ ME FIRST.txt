@@ -1,0 +1,1 @@
+Before Opening the installer please right click (LolScripts Auto Installer) and click run as administrator in order for the installation to work.
